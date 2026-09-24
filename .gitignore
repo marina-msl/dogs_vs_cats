@@ -1,0 +1,15 @@
+.env
+.env.*
+.venv/
+venv/
+dataset/
+dataset_invalid/
+PetImages/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+*.keras
+*.h5
+logs/
+.DS_Store
+Thumbs.db
