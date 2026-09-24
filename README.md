@@ -4,7 +4,7 @@ Projeto de estudo de Machine Learning para classificar imagens de gatos e cachor
 
 ## Arquivos
 
-- `load_images3.ipynb`: notebook com os primeiros passos de carregamento dos dados.
+- `load_images3.ipynb`: notebook com carregamento e normaliza??o dos dados, treinamento de uma rede convolucional e teste de previs?o.
 - `load_images.py`: script de carregamento dos dados.
 
 ## Como executar
